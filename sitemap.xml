@@ -1,2 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://nanalab.kr/eng-shaft-shear/</loc><lastmod>2026-10-25</lastmod></url></urlset>
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://nanalab.kr/eng-shaft-shear/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nanalab.kr/eng-shaft-shear/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nanalab.kr/eng-shaft-shear/en/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://nanalab.kr/eng-shaft-shear/es/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nanalab.kr/eng-shaft-shear/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nanalab.kr/eng-shaft-shear/ja/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://nanalab.kr/eng-shaft-shear/de/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nanalab.kr/eng-shaft-shear/" />
+  </url>
+  <url>
+    <loc>https://nanalab.kr/eng-shaft-shear/en/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nanalab.kr/eng-shaft-shear/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nanalab.kr/eng-shaft-shear/en/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://nanalab.kr/eng-shaft-shear/es/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nanalab.kr/eng-shaft-shear/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nanalab.kr/eng-shaft-shear/ja/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://nanalab.kr/eng-shaft-shear/de/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nanalab.kr/eng-shaft-shear/" />
+  </url>
+  <url>
+    <loc>https://nanalab.kr/eng-shaft-shear/es/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nanalab.kr/eng-shaft-shear/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nanalab.kr/eng-shaft-shear/en/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://nanalab.kr/eng-shaft-shear/es/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nanalab.kr/eng-shaft-shear/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nanalab.kr/eng-shaft-shear/ja/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://nanalab.kr/eng-shaft-shear/de/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nanalab.kr/eng-shaft-shear/" />
+  </url>
+  <url>
+    <loc>https://nanalab.kr/eng-shaft-shear/zh/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nanalab.kr/eng-shaft-shear/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nanalab.kr/eng-shaft-shear/en/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://nanalab.kr/eng-shaft-shear/es/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nanalab.kr/eng-shaft-shear/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nanalab.kr/eng-shaft-shear/ja/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://nanalab.kr/eng-shaft-shear/de/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nanalab.kr/eng-shaft-shear/" />
+  </url>
+  <url>
+    <loc>https://nanalab.kr/eng-shaft-shear/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nanalab.kr/eng-shaft-shear/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nanalab.kr/eng-shaft-shear/en/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://nanalab.kr/eng-shaft-shear/es/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nanalab.kr/eng-shaft-shear/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nanalab.kr/eng-shaft-shear/ja/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://nanalab.kr/eng-shaft-shear/de/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nanalab.kr/eng-shaft-shear/" />
+  </url>
+  <url>
+    <loc>https://nanalab.kr/eng-shaft-shear/de/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nanalab.kr/eng-shaft-shear/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nanalab.kr/eng-shaft-shear/en/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://nanalab.kr/eng-shaft-shear/es/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nanalab.kr/eng-shaft-shear/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nanalab.kr/eng-shaft-shear/ja/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://nanalab.kr/eng-shaft-shear/de/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nanalab.kr/eng-shaft-shear/" />
+  </url>
+</urlset>
